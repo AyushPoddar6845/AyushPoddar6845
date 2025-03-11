@@ -1,3 +1,9 @@
+# <div align="center"> Hey,👋 I'm Ayush Poddar </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AyushPoddar6845/AyushPoddar6845/main/Assets/cruise_gif.gif" alt="cruise_gif">
+</div>
+
+
 # 💫 About Me:
 🔭 I'm currently working on :<br>🛠 ReviveRite – A portal dedicated to reducing food waste and enhancing event supply chains by efficiently redistributing near-expiry products to event organizers.<br><br>🤝 I'm looking to collaborate on<br>🔹 Innovative web applications<br>🔹 Game development projects<br>🔹 AI & automation solutions<br>🔹 Computer vision applications<br><br>💡 I'm looking for help with<br>🔍 Scalability & Optimization of large-scale applications<br>🔍 Advanced AI/ML implementations for my developed applications<br><br>📖 I'm currently learning<br>📌 Data structures and various algorithms<br>📌 Computer networks<br>📌 Generative AI & GANs for creative applications<br>📌 Operating systems<br><br>🎉 Fun fact<br>🔥 I once automated my daily tasks so efficiently that I almost felt jobless for a day! 😆<br>🎵 I love experimenting with AI-generated music and visuals to create immersive experiences.<br><br>
 
