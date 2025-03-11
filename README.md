@@ -1,6 +1,6 @@
 # <div align="center"> Hey,👋 I'm Ayush Poddar </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AyushPoddar6845/AyushPoddar6845/main/Assets/cruise_gif.gif" alt="cruise_gif">
+  <img src="https://raw.githubusercontent.com/AyushPoddar6845/AyushPoddar6845/main/Assets/cruise_gif.gif" alt="cruise_gif" width="300" height="auto">
 </div>
 
 
